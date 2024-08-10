@@ -1,4 +1,4 @@
-package org.adapter;
+package org.structural.adapter;
 
 public class SquarePegAdapter extends RoundPeg {
     private SquarePeg squarePeg;

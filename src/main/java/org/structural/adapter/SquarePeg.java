@@ -1,4 +1,4 @@
-package org.adapter;
+package org.structural.adapter;
 
 public class SquarePeg {
     private double width;

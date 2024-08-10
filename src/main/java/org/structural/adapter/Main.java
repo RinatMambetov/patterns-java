@@ -1,4 +1,4 @@
-package org.adapter;
+package org.structural.adapter;
 
 /*
 Адаптер — это структурный паттерн, который позволяет подружить несовместимые объекты.

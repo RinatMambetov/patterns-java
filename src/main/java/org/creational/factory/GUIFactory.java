@@ -1,4 +1,4 @@
-package org.factory;
+package org.creational.factory;
 
 public interface GUIFactory {
     Button createButton();
